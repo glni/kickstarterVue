@@ -1,6 +1,4 @@
 <script setup>
-import {defineProps} from "vue";
-
 const {img, title, text} = defineProps(['img', 'title', 'text']);
 </script>
 
